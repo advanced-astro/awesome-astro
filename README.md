@@ -116,6 +116,9 @@ Pre 1.0
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 
+## Astro Action
+- [Astro Deploy](https://github.com/marketplace/actions/astro-deploy) - This action for Astro builds your Astro project for GitHub Pages
+
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
 - [Designcember](https://designcember.com/#3rd)
