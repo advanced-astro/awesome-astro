@@ -69,6 +69,7 @@ Pre 1.0
 
 
 ## ℹ️ Repositories/Starter Kits/Components
+- [Astro-Starter](https://github.com/lightrix/lightrix.dev)
 - [Astro-Deno-Deploy](https://github.com/lightrix/astro-deno-deploy)
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
