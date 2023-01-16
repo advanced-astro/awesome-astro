@@ -35,7 +35,6 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) __NEW__
 - [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) __NEW__
 
-
 ## 📹 Videos/Screencasts/Twitch
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [Brad Traversy's Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
@@ -70,6 +69,7 @@ Pre 1.0
 
 
 ## ℹ️ Repositories/Starter Kits/Components
+- [Astro-Deno-Deploy](https://github.com/lightrix/astro-deno-deploy)
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
