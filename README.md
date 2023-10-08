@@ -34,6 +34,9 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Explore the Benefits of Astro.js by Building a Quick App](https://prismic.io/blog/astro-js-tutorial) __NEW__
 - [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) __NEW__
 - [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) __NEW__
+- [Learn how to install Astro with Tailwind CSS and Flowbite](https://flowbite.com/docs/getting-started/astro/) __NEW__
+- [Automatic article suggestions in Astro](https://www.nmattia.com/posts/2023-02-25-astro-suggestions/) __NEW__
+- [Learn Astro by creating your web portfolio (Spanish)](https://www.webreactiva.com/bootcamp/astro) __NEW__
 
 ## 📹 Videos/Screencasts/Twitch
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
@@ -83,12 +86,16 @@ Pre 1.0
 - [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) - A marketing website theme built with Astro and carefully crafted for startups and businesses
 - [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
-- [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS. 
+- [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS.
+- [Astro Theme - Bigspring Light Astro](https://statichunt.com/themes/astro-bigspring-light) - Astro Business theme using Astro and Tailwind CSS.
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
+- [Refo](https://github.com/kireerik/refo) - A static site and resume example with styled components.
+- [Astro Blog Starter with Netlify CMS](https://github.com/delucis/astro-netlify-cms-starter) - Template based on the Astro blog starter kit + Astro Netlify CMS integration.
+- [Catonaut](https://github.com/AminoffZ/catonaut) - Browser extension template using Astro and Bun.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -108,6 +115,7 @@ Pre 1.0
 - [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
 - [Astro Heroicons](https://www.npmjs.com/package/astro-heroicons) - Heroicons as Astro components
+- [Astroad](https://github.com/mooxl/astroad) - A pre-configured setup for easy website development with Astro and Payload CMS using Docker.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
@@ -155,3 +163,6 @@ Pre 1.0
 - [jamstacker.studio](https://jamstacker.studio/)
 - [openspartan.com/](https://www.openspartan.com)
 - [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
+- [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
+- [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
+- [Oengi.com](https://oengi.com/)
